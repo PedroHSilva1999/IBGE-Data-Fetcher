@@ -19,10 +19,10 @@ IBGE Data Fetcher é uma aplicação web desenvolvida com Streamlit que permite 
 
 ```bash
 # Clone o repositório (se estiver usando git)
-git clone <url-do-repositorio>
+git clone https://github.com/PedroHSilva1999/IBGE-Data-Fetcher.git
 
 # Navegue até o diretório do projeto
-cd <diretorio-do-projeto>
+cd IBGE-Data-Fetcher
 
 # Instale as dependências
 pip install streamlit pandas requests
