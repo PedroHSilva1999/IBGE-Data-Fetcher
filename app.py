@@ -42,10 +42,11 @@ def consolidate_data(data_name, data_state):
         return pd.DataFrame(columns=["State", "Population"])
         
     result_data = []
+
     for id_state, population in sorted(data_name.items(), key=lambda x:x[1], reverse=True):
         state_name = data_state.get(id_state, 'N/A')
         result_data.append({"State": state_name, "Population": population})
-    print(pd.DataFrame(result_data))
+ 
     return pd.DataFrame(result_data)
 
 
