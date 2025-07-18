@@ -4,7 +4,8 @@
 IBGE Data Fetcher é uma aplicação web desenvolvida com Streamlit que permite consultar dados populacionais de nomes brasileiros por estado, utilizando a API pública do IBGE.
 
 ## Demonstração
-![Screenshot da aplicação IBGE Data Fetcher](<img width="814" height="776" alt="image" src="https://github.com/user-attachments/assets/0bcd8c2a-8cad-41bf-80b8-095bb7ade82c" />)
+<img width="814" height="776" alt="image" src="https://github.com/user-attachments/assets/65a30991-245d-4ff4-bd60-ac532e76d912" />
+
 
 A imagem acima mostra a aplicação em funcionamento com a consulta do nome "Pedro", exibindo:
 - Tabela com a distribuição populacional por estado (São Paulo lidera com mais de 4 milhões)
